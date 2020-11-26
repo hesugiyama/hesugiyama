@@ -1,9 +1,9 @@
-<h2> Hi, I'm Henrique Sugiyama 👋 </br>
- I'm a Front-end Developer based in São Paulo, Brazil.
+<div align="center">
+ <img src="https://fontmeme.com/temporary/690376c5247ffa74559bc88b30278ef1.png" width="250px" /><br>
+</div>
+
+<h2> I'm a Front-end Developer based in São Paulo, Brazil. </br>
 </h2>
-
-<img src https://fontmeme.com/temporary/690376c5247ffa74559bc88b30278ef1.png/>
-
 
 <h3> 👨🏻‍💻 About Me </h3>
 
