@@ -1,6 +1,6 @@
 <h1> I'm a Front-end Developer based in São Paulo, Brazil. </br>
 </h1>
-
+</br>
 <h2> 👨🏻‍💻 About Me </h2>
 
 - 🎓 &nbsp; Technology degree at Fatec Jundiaí.
