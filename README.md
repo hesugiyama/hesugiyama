@@ -1,16 +1,18 @@
-### Hi there 👋
+<h2> Hi, I'm Henrique Sugiyama👋 </br>
+ I'm a Front-end Developer based in São Paulo, Brazil.
+</h2>
 
-<!--
-**hesugiyama/hesugiyama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 &nbsp; Technology degree at Fatec Jundiaí.
+- 💼 &nbsp; I'm currently working full-time at **Diebold Nixdorf**
+- 🌱 &nbsp; Learning more about Systems Design, web/app development and financial market.
+- ✍️ &nbsp; Researching art as hobbie.
+
+<br/>
+
+<i>Follow me:</i><br>
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sugiyamaho@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-sugiyama/)
