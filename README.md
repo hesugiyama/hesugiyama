@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Technology degree at Fatec Jundiaí.
 - 💼 &nbsp; I'm currently working full-time at **Diebold Nixdorf**
-- 🌱 &nbsp; Learning more about Systems Design, web/app development and financial market.
+- 🌱 &nbsp; Learning more about systems design, web/app development and financial market.
 - ✍️ &nbsp; Researching art as hobbie.
 
 <br/>
