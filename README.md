@@ -1,11 +1,7 @@
-<div align="center">
- <img src="https://fontmeme.com/temporary/690376c5247ffa74559bc88b30278ef1.png" width="250px" /><br>
-</div>
+<h1> I'm a Front-end Developer based in São Paulo, Brazil. </br>
+</h1>
 
-<h2> I'm a Front-end Developer based in São Paulo, Brazil. </br>
-</h2>
-
-<h3> 👨🏻‍💻 About Me </h3>
+<h2> 👨🏻‍💻 About Me </h2>
 
 - 🎓 &nbsp; Technology degree at Fatec Jundiaí.
 - 💼 &nbsp; I'm currently working full-time at **Diebold Nixdorf**
