@@ -2,6 +2,8 @@
  I'm a Front-end Developer based in São Paulo, Brazil.
 </h2>
 
+<img src https://fontmeme.com/temporary/690376c5247ffa74559bc88b30278ef1.png/>
+
 
 <h3> 👨🏻‍💻 About Me </h3>
 
