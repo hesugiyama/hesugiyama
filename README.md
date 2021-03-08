@@ -4,7 +4,7 @@
 <h2> 👨🏻‍💻 About Me </h2>
 
 - 🎓 &nbsp; Technology degree at Fatec Jundiaí.
-- 💼 &nbsp; I'm currently working full-time at **Diebold Nixdorf**
+- 💼 &nbsp; I'm currently working full-time at **Gympass**
 - 🌱 &nbsp; Learning more about systems design, web/app development and financial market.
 - ✍️ &nbsp; Researching art as hobbie.
 
