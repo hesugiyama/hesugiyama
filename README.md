@@ -3,8 +3,8 @@
 </br>
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🎓 &nbsp; Technology degree at Fatec Jundiaí.
-- 💼 &nbsp; I'm currently working full-time at **Gympass**
+- 🎓 &nbsp; Technology degree 
+- 💼 &nbsp; I'm currently working full-time at **Wellhub**
 - 🌱 &nbsp; Learning more about design systems, web/app development and financial market.
 - ✍️ &nbsp; Researching art as hobbie.
 
